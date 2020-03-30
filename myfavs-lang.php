@@ -5,10 +5,10 @@
 */
 
 return array(
-	'title_widget_tags' => 'My Favorite Tags',
-	'title_widget_users'  => 'My Favorite Users',
-	'title_widget_questions'  => 'My Favorite Questions',
-	'title_widget_categories'  => 'My Favorite Categories',
+	'title_widget_tags' => 'আমার প্রিয় তকমাসমূহ',
+	'title_widget_users'  => 'আমার প্রিয় সদস্যসমূহ',
+	'title_widget_questions'  => 'আমার প্রিয় প্রশ্নসমূহ',
+	'title_widget_categories'  => 'আমার প্রিয় বিভাগসমূহ',
 	'limit_widget_tags' => 'Maximum Tags to Display in the Widget',
 	'limit_widget_users'  => 'Maximum Users to Display in the Widget',
 	'limit_widget_questions'  => 'Maximum Questions to Display in the Widget',
